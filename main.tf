@@ -9,5 +9,6 @@ module "ec2_instance" {
 
   tag_value = {
     name = "ec2_machine_first"
+    
   }
 }
